@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Poppins&display=swap');
 
+p {
+  font-size: 94%;
+  justify-content: right;
+}
+
 body {
   font-family: 'Poppins';
 }
@@ -47,12 +52,13 @@ figure img{
 }
 
 #sec_ctd h1{
+  width: 550px;
   text-align: right;
   font-size: xx-large;
 }
 
 #sec_ctd p{
-  width: 400px;
+  width: 500px;
   text-align: justify;
 }
 
@@ -87,7 +93,7 @@ figure img{
 }
 
 #social a img {
-  height: 40px;
+  height: 25px;
 }
 
 .f {
